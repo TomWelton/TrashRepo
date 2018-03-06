@@ -16,3 +16,19 @@
     background-size: cover;
     height: 100%;
 }
+
+#results {
+    background-image: url("../assets/images/romance-blue-orange.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+#review {
+    background-image: url("../assets/images/purple-glitter.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
